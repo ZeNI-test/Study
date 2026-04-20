@@ -1,0 +1,10 @@
+C:\Users\0_206_16\Desktop\Deryabin_16_exam\Deryabin_16\Deryabin_16\bin\Debug\Deryabin_16.exe.config
+C:\Users\0_206_16\Desktop\Deryabin_16_exam\Deryabin_16\Deryabin_16\bin\Debug\Deryabin_16.exe
+C:\Users\0_206_16\Desktop\Deryabin_16_exam\Deryabin_16\Deryabin_16\bin\Debug\Deryabin_16.pdb
+C:\Users\0_206_16\Desktop\Deryabin_16_exam\Deryabin_16\Deryabin_16\obj\Debug\Deryabin_16.csproj.AssemblyReference.cache
+C:\Users\0_206_16\Desktop\Deryabin_16_exam\Deryabin_16\Deryabin_16\obj\Debug\Deryabin_16.LoginForm.resources
+C:\Users\0_206_16\Desktop\Deryabin_16_exam\Deryabin_16\Deryabin_16\obj\Debug\Deryabin_16.Properties.Resources.resources
+C:\Users\0_206_16\Desktop\Deryabin_16_exam\Deryabin_16\Deryabin_16\obj\Debug\Deryabin_16.csproj.GenerateResource.cache
+C:\Users\0_206_16\Desktop\Deryabin_16_exam\Deryabin_16\Deryabin_16\obj\Debug\Deryabin_16.csproj.CoreCompileInputs.cache
+C:\Users\0_206_16\Desktop\Deryabin_16_exam\Deryabin_16\Deryabin_16\obj\Debug\Deryabin_16.exe
+C:\Users\0_206_16\Desktop\Deryabin_16_exam\Deryabin_16\Deryabin_16\obj\Debug\Deryabin_16.pdb
